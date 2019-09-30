@@ -30,6 +30,5 @@ public class Test {
         System.out.println(c1.leaveItem(b3));
         System.out.println(c1.numberOfCurrentRentItems());
 
-
     }
 }

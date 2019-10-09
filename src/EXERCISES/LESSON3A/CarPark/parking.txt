@@ -1,0 +1,18 @@
+
+
+1) Klasa parking
+
+M x N
+
+[.....]
+[.....]
+[.....]
+
+
+2) Klasa immutable position (x, y)
+
+
+parking
+    - z metoda przyjmij samochod
+    - z metoda uwolnij samochod
+    - z metoda zwracjącą puste miejsca
